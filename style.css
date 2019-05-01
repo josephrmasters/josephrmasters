@@ -10,6 +10,7 @@ h1 {
 body {
   background-color: black;
   font-family: sans-serif;
+  font color: white;
   margin-left: 200px;
   margin-right: 200px;
   line-height: 30px;
@@ -35,20 +36,13 @@ font-size: 20px;
   h2:hover{opacity: 1}
 
 
-}
-
 h3 {
   font-family: sans-serif;
   color: white;
-  font-size: 10px;
-  padding-bottom: 100px;
-  opacity: 0.6;
-  transition: 0.1s;
-  font-size: 20px;
-  margin-right: auto;
+  font-size: 25px;
 }
 
-h3:hover{opacity: 1;}
+
 
 a {
   color: white;
